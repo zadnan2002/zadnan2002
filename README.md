@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several React projects<br>🌱 I’m currently learning React libraries and Node.js<br>💬 Ask me about: How to center a div<br>⚡ Fun fact: Will put easter eggs in my code
+🔭 I’m currently working on several React and Angular projects<br>🌱 I’m currently learning React libraries and Node.js<br>💬 Ask me about: How to center a div<br>⚡ Fun fact: Will put easter eggs in my code
 
 
 ## 🌐 Socials:
