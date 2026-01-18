@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several Java projects<br>🌱 I’m currently learning Advanced Spring Boot Applications<br>💬 Ask me about: How to center a div (I cannot answer) <br>⚡ Fun fact: Will put easter eggs in my code
+🔭 I’m currently working on multiple AI products<br>🌱 I’m currently learning better ways to utilize MCP servers<br>💬 Ask me about: How to center a div (I cannot answer) <br>⚡ Fun fact: Will put easter eggs in my code
 
 
 ## 🌐 Socials:
